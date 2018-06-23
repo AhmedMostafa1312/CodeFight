@@ -1,3 +1,8 @@
+/**********************************
+*   Auther : Ahmed Mostafa        *
+*   Date : 23/6/2018              *
+**********************************/
+
 int adjacentElementsProduct(arr_integer inputArray) 
 {
     int i=0,max=0,temp=2;

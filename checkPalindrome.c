@@ -1,3 +1,8 @@
+/**********************************
+*   Auther : Ahmed Mostafa        *
+*   Date : 22/6/2018              *
+**********************************/
+
 bool checkPalindrome(char * inputString) 
 {
     int i=0,counter=0;

@@ -1,3 +1,8 @@
+/**********************************
+*   Auther : Ahmed Mostafa        *
+*   Date : 22/6/2018              *
+**********************************/
+
 int centuryFromYear(int year) 
 {
     
